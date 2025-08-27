@@ -1,0 +1,44 @@
+Data science --- from intellipat
+
+step 1 - Understanding business problem
+
+someone ask us to 
+IS the goal to 
+             reduce the cost
+             improve delivery time
+             manage inventory better
+             solve for any current issues
+
+
+STEP 2 - Data acquisition 
+collecting the right data for machine to learn from and make smart suggestions 
+
+Step - 3
+Data preparation 
+raw to structured 
+ensure to check data any missing empty or null in tables
+-----time consuming one 
+
+Step 4 - EDA
+focus on relevent data 
+
+Step 5 - Modelling
+Training the acquired data with machine learning algorithms that fit best to business problem
+
+step 6 - presenting insights
+- visual report are easy to understand for business leaders
+
+step 7 - deployment and controlling
+
+
+-----
+Data engineer - collecting - clean - showcase 
+raw input - clear view - audience likliness
+
+data analyst - intrepret data - use sql - visualizing data like tablue 
+- power bi - pandas - matploylib 
+
+data scientist - predict what future is
+apply machine learning models 
+statistical algorithms
+AI Techniques
